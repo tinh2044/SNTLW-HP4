@@ -1,0 +1,1 @@
+from sign_language_translator import config
